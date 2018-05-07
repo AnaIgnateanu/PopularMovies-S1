@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3D6B66</color>
+    <color name="colorPrimaryDark">#28403D</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="backgroundColor">#C8CBE0</color>
+    <color name="overflow_background">#C3E6E1</color>
+</resources>

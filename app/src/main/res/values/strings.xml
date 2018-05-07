@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+
+   <!--Labels for the movie's details screen-->
+    <string name="synopsis_label">Plot synopsis</string>
+    <string name="vote_average_label">User rating</string>
+    <string name="release_date_label">Release date</string>
+    <string name="original_title_label">Original title</string>
+
+
+    <!--Options for sorting in the settings menu-->
+    <string name="sort_by_top_rated">Top rated</string>
+    <string name="sort_by_popularity">Most popular</string>
+
+    <string name="tmdb_base_url">https://api.themoviedb.org/3/movie</string>
+    <string name="img_base_url">https://image.tmdb.org/t/p/</string>
+    <string name="query_param_api_key">api_key</string>
+    <string name="query_param_page">page</string>
+
+    <string name="connectivity_display_message">No internet connection</string>
+</resources>
